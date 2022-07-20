@@ -1,0 +1,10 @@
+{
+    "version": 3,
+    "mappings": "ACAA,AAAA,IAAI,AAAC,CACH,SAAS,CAAE,KAAK,CACjB,AAED,AAAA,KAAK,AAAC,CACJ,UAAU,CAAE,KAAK,CACjB,OAAO,CAAE,IAAI,CACb,cAAc,CAAE,MAAM,CACvB,AAED,AAAA,GAAG,AAAC,CACF,SAAS,CAAE,IAAI,CAChB",
+    "sources": [
+        "../scss/index.scss",
+        "../scss/_config.scss"
+    ],
+    "names": [],
+    "file": "index.min.css"
+}
