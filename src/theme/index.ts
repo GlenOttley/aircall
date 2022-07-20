@@ -55,13 +55,13 @@ theme = createTheme(theme, {
     fontFamily: ['Helvetica', 'arial', 'sans-serif'].join(','),
     htmlFontSize: 10,
     body1: {
-      fontSize: '1.2rem',
+      fontSize: '1.3rem',
       fontWeight: '600',
       letterSpacing: '.75px',
       color: theme.palette.grey[700],
     },
     body2: {
-      fontSize: '1rem',
+      fontSize: '1.1rem',
 
       color: theme.palette.grey[500],
     },
